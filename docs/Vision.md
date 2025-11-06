@@ -1,0 +1,2 @@
+NeuroSec is an AI-Powered cybersecurity platform designed to automate threat detection, analysis, and defense for individuals and organizations. 
+Mission: To create the smartest AI-driven cyber defense assistant that protects digital assets 24/7.

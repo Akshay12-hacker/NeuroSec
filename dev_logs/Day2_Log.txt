@@ -1,0 +1,4 @@
+Mission Complete: Backend prototype Operational.
+Insights: Develop a Socket Ip finding through python main.py but it is just starting they are some problems about some basics in python but i can learn also i am working with learning Full Stack Development.
+Obstacles: Problem in DSA and Java 
+Improvments: Python Experience.
