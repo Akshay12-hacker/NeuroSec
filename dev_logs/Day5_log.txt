@@ -1,0 +1,3 @@
+New external skill learned:
+Error I hit today: ALL things are good 
+What I understood about API = backend integration = how restapi work with request in python
